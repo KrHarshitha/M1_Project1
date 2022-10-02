@@ -1,6 +1,6 @@
 /**
  * @file calc_operations.h
- * @author Keerthana (keerthana.b.2018.cse@ritchennai.edu.in)
+ * @author Harshitha (harshitha00002@gmail.com)
  * @brief Header file for Scientific Calculator
  * @version 0.1
  * @date 2022-03-30
